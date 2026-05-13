@@ -41,10 +41,7 @@ Core Tables Used:
 | safety_incidents    | Compliance/risk              | Safety performance         |
 
 #Database Relationship (ER Diagram)
-
-
-
-
+<img width="1708" height="674" alt="Logistics Operations ER Diagram A drawio (1)" src="https://github.com/user-attachments/assets/82a20c32-2842-4440-a3df-156a854bde8d" />
 
 # Tools Used
 
