@@ -1,10 +1,10 @@
 # Logistics-Operations
 Healthcare Operations and Logistics Intelligence Dashboard (SQL + PowerBi Project)
 
-#Project Objective
+### Project Objective
 This project analyzes a multi-table logistics dataset restructured into a healthcare operations system to evaluate workforce efficiency, hospital performance, operational costs, patient movement, and service delivery.
 
-#Primary goals:
+### Primary goals:
 - Assess healthcare staff productivity
 - Identify top-performing hospitals
 - Analyze patient journey efficiency
@@ -14,7 +14,7 @@ This project analyzes a multi-table logistics dataset restructured into a health
 - Support executive decision-making with data-driven insights
 - Business Problem
 
-#Healthcare systems require operational visibility to:
+### Healthcare systems require operational visibility to:
 - Improve patient throughput
 - Reduce delays
 - Optimize resource allocation
@@ -89,79 +89,80 @@ Core Tables Used:
 
 ## 1. Driver Productivity
 ### Insight:
-- Number of trips completed per healthcare staff
-- Identifies top-performing personnel
-- Supports staffing optimization
+- There were 83696 trips completed by the healthcare staff
+- Identifies top-performing driver was Robert Jackson (DRV00019) 
+- This supports staffing optimization
 
 ---
 
 ## 2. Top Performing Drivers
 ### Insight:
-- Highlights most active healthcare staff
-- Useful for workforce planning and incentive programs
+- Highlights most active healthcare staff as Robert Jackson (DRV00019)
+- This is useful for workforce planning and incentive programs
 
 ---
 
 ## 3. Facility Performance
 ### Insight:
-- Hospitals with highest patient volumes
-- Helps identify overloaded facilities
+- Hospitals with highest patient volume is Nasville Distribution Center
+- This helps identify overloaded facilities
 
 ---
 
 ## 4. Load Distribution by City
 ### Insight:
-- Determines cities with highest patient case volumes
-- Supports regional healthcare planning
+- Columbus is the city with the highest patient case volume
+- This supports regional healthcare planning
 
 ---
 
 ## 5. Revenue Generation by City
 ### Insight:
-- Reveals most profitable healthcare regions
-- Supports expansion strategies
+- Philadelphia has Total revenue of #945,031,155
+With #16416 total loads. Followed by Columbus with #885,047328 in total revenue with 15336 in total loads. This reveals most profitable healthcare regions
+- This supports expansion strategies
 
 ---
 
 ## 6. Revenue vs Load Comparison
 ### Insight:
-- Compares service volume to profitability
-- Identifies underperforming high-volume regions
+- The average revenue per load #1,039,360. This helps to compares service volume to profitability
+- This helps identify underperforming high-volume regions
 
 ---
 
 ## 7. Profitability Per Load
 ### Insight:
-- Measures operational efficiency
-- Reveals best-value service regions
+- The average profit per load #57742, top ptofit per load is #58150 recorded by Phoenix and the least profit per load is #57349 recorded by Memphis. This helps measure operational efficiency
+- This reveals best-value service regions
 
 ---
 
 ## 8. Transit Time Analysis
 ### Insight:
-- Longest patient journey durations
-- Identifies route inefficiencies
+- The average transit time is 123 hrs. Miami has the longest transit time with 131 hrs and the least at Denver with 11hrs. This helps identify the longest patient journey duration
+- This helps identify route inefficiencies
 
 ---
 
 ## 9. Delivery Event Distribution
 ### Insight:
-- Lifecycle stage distribution
-- Helps monitor service progression
+- There were 170820 total events, with 36076 delivery events. 50% was delivery while 50% pickup. This helps identify the lifecycle stage distribution
+- This helps monitor service progression
 
 ---
 
 ## 10. On-Time vs Delayed Events
 ### Insight:
-- Measures service quality
-- Operational SLA tracking
+- 100% of events were delayed. The measures service quality
+- This enhances operational SLA tracking
 
 ---
 
 ## 11. Delay Hotspots
 ### Insight:
-- Cities with highest patient delays
-- Supports targeted intervention
+- Atlanta is the city with highest patient delays
+- This supports targeted intervention
 
 ---
 
