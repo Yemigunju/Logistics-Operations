@@ -101,8 +101,7 @@ Core Tables Used:
 ### Insight:
 - Highlights most active healthcare staff as Robert Jackson (DRV00019)
 - This is useful for workforce planning and incentive programs
-<img width="1402" height="673" alt="Logistics Operations - Executive Dashboard" src="https://github.com/user-attachments/assets/23f9b8ee-f536-4845-9926-0dabda1baf48" />
-
+<img width="588" height="203" alt="Top 5 drivers" src="https://github.com/user-attachments/assets/b8f19a5b-4d70-40d0-8594-81cf8333a8aa" />
 
 ---
 
@@ -110,8 +109,7 @@ Core Tables Used:
 ### Insight:
 - Hospitals with highest patient volume is Nasville Distribution Center
 - This helps identify overloaded facilities
-<img width="1402" height="673" alt="Logistics Operations - Executive Dashboard" src="https://github.com/user-attachments/assets/afd51c93-6f73-4fa9-b31f-2d91c401fdf1" />
-
+<img width="579" height="433" alt="total cases handled by each hospitals" src="https://github.com/user-attachments/assets/520067f7-9e96-4dcb-879f-28aebab2fbdf" />
 
 ---
 
@@ -119,6 +117,7 @@ Core Tables Used:
 ### Insight:
 - Columbus is the city with the highest patient case volume
 - This supports regional healthcare planning
+<img width="649" height="606" alt="Loads handled per city" src="https://github.com/user-attachments/assets/5a862819-4248-488c-9328-5281e8c6c361" />
 
 ---
 
@@ -127,8 +126,6 @@ Core Tables Used:
 - Philadelphia has Total revenue of #945,031,155
 With #16416 total loads. Followed by Columbus with #885,047328 in total revenue with 15336 in total loads. This reveals most profitable healthcare regions
 - This supports expansion strategies
-<img width="1402" height="673" alt="Logistics Operations - Executive Dashboard" src="https://github.com/user-attachments/assets/1a5ee4cc-386a-42f0-9c36-f655587e210d" />
-
 
 ---
 
@@ -136,6 +133,8 @@ With #16416 total loads. Followed by Columbus with #885,047328 in total revenue 
 ### Insight:
 - The average revenue per load #1,039,360. This helps to compares service volume to profitability
 - This helps identify underperforming high-volume regions
+<img width="552" height="263" alt="Load volume and revenue per city" src="https://github.com/user-attachments/assets/22d044eb-cda5-4432-806d-5f6f9106f609" />
+
 
 ---
 
@@ -143,7 +142,7 @@ With #16416 total loads. Followed by Columbus with #885,047328 in total revenue 
 ### Insight:
 - The average profit per load #57742, top ptofit per load is #58150 recorded by Phoenix and the least profit per load is #57349 recorded by Memphis. This helps measure operational efficiency
 - This reveals best-value service regions
-
+<img width="553" height="173" alt="Most profitable cities per load" src="https://github.com/user-attachments/assets/29a9ec58-5e8f-45b7-b9a5-f5697c303684" />
 
 ---
 
@@ -151,6 +150,8 @@ With #16416 total loads. Followed by Columbus with #885,047328 in total revenue 
 ### Insight:
 - The average transit time is 123 hrs. Miami has the longest transit time with 131 hrs and the least at Denver with 11hrs. This helps identify the longest patient journey duration
 - This helps identify route inefficiencies
+<img width="551" height="196" alt="Route with the longest average transit time" src="https://github.com/user-attachments/assets/13e55a33-bf7e-4494-bf8e-0e6db69a1418" />
+
 
 ---
 
