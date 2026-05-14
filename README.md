@@ -86,6 +86,8 @@ Core Tables Used:
 ---
 
 # Key Business Analysis Results
+<img width="1402" height="673" alt="Logistics Operations - Executive Dashboard" src="https://github.com/user-attachments/assets/94e56a2a-6df1-4802-969d-ca10bf4ff3fb" />
+
 
 ## 1. Driver Productivity
 ### Insight:
@@ -99,6 +101,8 @@ Core Tables Used:
 ### Insight:
 - Highlights most active healthcare staff as Robert Jackson (DRV00019)
 - This is useful for workforce planning and incentive programs
+<img width="1402" height="673" alt="Logistics Operations - Executive Dashboard" src="https://github.com/user-attachments/assets/23f9b8ee-f536-4845-9926-0dabda1baf48" />
+
 
 ---
 
@@ -106,6 +110,8 @@ Core Tables Used:
 ### Insight:
 - Hospitals with highest patient volume is Nasville Distribution Center
 - This helps identify overloaded facilities
+<img width="1402" height="673" alt="Logistics Operations - Executive Dashboard" src="https://github.com/user-attachments/assets/afd51c93-6f73-4fa9-b31f-2d91c401fdf1" />
+
 
 ---
 
@@ -121,6 +127,8 @@ Core Tables Used:
 - Philadelphia has Total revenue of #945,031,155
 With #16416 total loads. Followed by Columbus with #885,047328 in total revenue with 15336 in total loads. This reveals most profitable healthcare regions
 - This supports expansion strategies
+<img width="1402" height="673" alt="Logistics Operations - Executive Dashboard" src="https://github.com/user-attachments/assets/1a5ee4cc-386a-42f0-9c36-f655587e210d" />
+
 
 ---
 
@@ -135,6 +143,7 @@ With #16416 total loads. Followed by Columbus with #885,047328 in total revenue 
 ### Insight:
 - The average profit per load #57742, top ptofit per load is #58150 recorded by Phoenix and the least profit per load is #57349 recorded by Memphis. This helps measure operational efficiency
 - This reveals best-value service regions
+
 
 ---
 
